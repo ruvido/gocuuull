@@ -1,0 +1,5 @@
+lib = "../lib"
+from = "20240708"
+to = "20240722"
+name = "grecia"
+users = ["ruvido", "chiara"]

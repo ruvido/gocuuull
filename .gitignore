@@ -1,0 +1,50 @@
+# Binaries for programs and plugins
+*.HEIC
+*.jpg
+*.jpeg
+*.JPG
+bin/
+build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build artifacts
+*.out
+*.a
+
+# Test binary, build and coverage output
+*.test
+*.cover
+coverage.out
+test-results/
+
+# Go modules
+# The module cache is located in the $GOPATH/pkg/mod directory
+# The go.sum file is also used for module verification
+# The go.sum file is created when you run `go mod tidy`
+go.sum
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+*.vscode/
+*.project
+*.classpath
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*.log
+
+# Build directories
+build/
+dist/
